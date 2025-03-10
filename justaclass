@@ -1,0 +1,15 @@
+
+    // public class A
+    // {
+    //     public string ReturnMethod(int value)
+    //     {
+    //         if (value == 0)
+    //         {
+    //             return "PIKACHU!";
+    //         }
+    //         else
+    //         {
+    //             return "FUCK YOU!";
+    //         }
+    //     }
+    // }

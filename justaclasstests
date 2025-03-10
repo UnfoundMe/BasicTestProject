@@ -1,0 +1,24 @@
+
+    // public class Justaclasstests
+    // {
+    //     public static void ReturnMethod_returnsPIKACHUifvalue0_returnsPIKACHU()
+    //     {
+    //         //Arrange
+    //         justaclass instance = new justaclass();
+    //         int value = 0;
+    //         string expectedString = "PIKACHU!";
+
+    //         //Act
+    //         string result = instance.ReturnMethod(value);
+
+    //         //Assert
+    //         if(result == expectedString)
+    //         {
+    //             System.Console.WriteLine( $"Test case passed: {result} is called");
+    //         }
+    //         else
+    //         {
+    //             System.Console.WriteLine(  $"Test case failed: {result} is called");
+    //         }
+    //     }
+    // }

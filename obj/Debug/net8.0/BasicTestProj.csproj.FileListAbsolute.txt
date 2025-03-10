@@ -1,0 +1,14 @@
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\bin\Debug\net8.0\BasicTestProj.exe
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\bin\Debug\net8.0\BasicTestProj.deps.json
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\bin\Debug\net8.0\BasicTestProj.runtimeconfig.json
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\bin\Debug\net8.0\BasicTestProj.dll
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\bin\Debug\net8.0\BasicTestProj.pdb
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.AssemblyInfoInputs.cache
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.AssemblyInfo.cs
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.csproj.CoreCompileInputs.cache
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.dll
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\refint\BasicTestProj.dll
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.pdb
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\BasicTestProj.genruntimeconfig.cache
+C:\Users\vishn\Desktop\Gana\CSharpProjects\BasicTestProj\obj\Debug\net8.0\ref\BasicTestProj.dll
